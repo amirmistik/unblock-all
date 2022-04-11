@@ -13,8 +13,10 @@ Now script can parse more than 50 users. Twitter cant load more than ~50 users, 
 # What if it doesnt work?
 1. First of all you need check which text contain remove from black list button. 
 ![2022-04-11_19-09-52](https://user-images.githubusercontent.com/57581726/162757946-979a647a-0634-4006-9df7-71ce119fa743.png)
+
 On this screenshot we can see "Blocked" text on button. If you have a different text, you should have changed it in the script.
 ![2022-04-11_19-12-28](https://user-images.githubusercontent.com/57581726/162758560-9f84a474-fbb3-4c01-8718-9141b7c8ad97.png)
+
 You need change it
 
 # Usage
